@@ -1,14 +1,13 @@
 # HR Attrition Analysis Dashboard
 
 ## 📌 Project Overview
-This project analyzes employee attrition patterns using Excel, MySQL, and Power BI. 
-The goal was to identify key factors contributing to employee turnover and derive actionable insights.
+This project analyzes employee attrition using Excel, MySQL, and Power BI to identify key drivers of workforce turnover.
 
 ---
 
 ## 🛠 Tools Used
 - Excel – Data cleaning and preprocessing
-- MySQL – Data storage and aggregation queries
+- MySQL – Data storage and analytical queries
 - Power BI – Dashboard development and DAX KPI creation
 
 ---
@@ -20,19 +19,21 @@ The goal was to identify key factors contributing to employee turnover and deriv
 
 ---
 
-## 📈 Dashboard Insights
+## 📈 Key Insights
 - Research & Development department shows highest attrition.
-- Laboratory Technician role has highest role-based attrition.
+- Laboratory Technician role has highest job-role attrition.
 - Employees working overtime exhibit higher attrition risk.
 
 ---
 
-## 📂 Files Included
-- Power BI Dashboard (.pbix)
-- Dashboard PDF export
-- Dashboard Screenshot
+## 📁 Project Files
+- hr_attrition_cleaned.xlsx – Cleaned dataset
+- hr_attrition_queries.sql – SQL analysis queries
+- HR Attrition Dashboard.pbix – Power BI file
+- HR Attrition Dashboard.pdf – Dashboard export
+- Screenshot.png – Dashboard preview
 
 ---
 
 ## 🎯 Business Impact
-The dashboard helps HR teams identify high-risk departments and workload-related retention issues to support data-driven decision-making.
+Helps HR teams identify high-risk departments and workload-related retention patterns to support data-driven decision-making.
