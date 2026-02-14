@@ -28,4 +28,5 @@ SELECT OverTime,
        COUNT(*) AS Attrition_Count
 FROM hr_analysis
 WHERE Attrition = 'Yes'
+
 GROUP BY OverTime;
